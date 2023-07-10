@@ -6,7 +6,6 @@
 
 ## 🖥️ Projeto
 
-Esse projeto responsivo de página de receita de um delicioso Cheesecake é desenvolvido no nível 03 do Explorer.
 Esse projeto de página com listagem de galáxias é desenvolvido no nível 03 do Explorer.
 
 ## 🚀 Tecnologias
